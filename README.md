@@ -28,3 +28,6 @@ nix run github:Archerymystery/Orderbook
 cargo run 
 ```
 
+## Time Spent 
+About 3.5-4 hours of work 
+
