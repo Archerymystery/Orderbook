@@ -7,7 +7,11 @@ This project is an implementation of an order book in Rust. The order book is st
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
-2. Start the program
+2. Clone repo
+```bash
+git clone https://github.com/Archerymystery/Orderbook.git
+```
+3. Start the program
 ```bash
 cargo run
 ```
