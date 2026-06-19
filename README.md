@@ -23,7 +23,11 @@ nix run github:Archerymystery/Orderbook
 ```
 ### Windows
 1. [Install rust](https://rust-lang.org/tools/install/)
-2. Run the program
+2. Clone repo
+```bash
+git clone https://github.com/Archerymystery/Orderbook.git
+```
+3. Run the program
 ```
 cargo run 
 ```
