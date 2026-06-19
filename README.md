@@ -11,15 +11,20 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```bash
 git clone https://github.com/Archerymystery/Orderbook.git
 ```
-3. Start the program
+3. Run the program
 ```bash
 cargo run
 ```
 ### Nix/Nixos
-1. Start the program
+1. Run the program
 
 ```bash
 nix run github:Archerymystery/Orderbook
 ```
-
+### Windows
+1. [Install rust](https://rust-lang.org/tools/install/)
+2. Run the program
+```
+cargo run 
+```
 
