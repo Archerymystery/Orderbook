@@ -15,7 +15,7 @@ cargo run
 1. Start the program
 
 ```bash
-nix run "place holder"
+nix run github:Archerymystery/Orderbook
 ```
 
 
